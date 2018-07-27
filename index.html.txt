@@ -1,0 +1,19 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+     <metacharset="utf-8">
+     <title>resume building</title>
+     </head>
+     <body>
+     <h1>resume</h1>
+     <p>present i'm in mic college
+     <title>...</title>
+     <header>...</header>
+     </head>
+     <body>
+     <div class=" ">...
+     ....
+     </div>
+     <footer>...</footer>
+     </body>
+     </html>
