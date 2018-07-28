@@ -1,16 +1,50 @@
 .main{
-	width:100%;
-	background-color: blue;
+	background-color: #ddd;
 	display:flex;
-	.left{
-	width:30%;
+	justify-content: center;
+	text-align: center;
 	border:3px solid #2df;
-	background-color:
+	background-color:#999;
 }
 .right{
-	width:70%;
+	flex:1;
 	border:3px solid #00f;
 }
-.img{
+.left{
+	flex:2;
+	border:3px solid #00f;
+
+}
+
+img{
 	width:100px;
+	border-style:double;
+	border-radius: 10px solid #000;
+
+}
+@media only screen and (max-width: 425px) {
+	.main{
+		display:flex;
+		flex-wrap:wrap;
+	}
+	.left{
+		width: 95%;
+	}
+
+@media only screen and (min-width: 426px) and (max-width:760) {
+
+.main{
+		display:flex;
+		flex-wrap:wrap;
+	}
+	.left{
+		width: 50%;
+	}
+	.right{
+      width: 50%;
+	}
+
+}
+.sset table,tr,td{
+ border: 2px solid white;
 }

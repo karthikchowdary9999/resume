@@ -1,0 +1,40 @@
+{
+	"details":{
+       "name":"Nani",
+       "image":"images.png",
+       "phone":"8143141414",
+       "email":"karthikchowdarymannepalli@gmail.com" 
+
+	},
+	"education":[
+		{
+			"course":"B.Tech(CSE)",
+			"college":"MIC college of technology",
+			"precentage":"75%"
+		},
+		{
+
+            "course":"Intermediate(MPC)",
+			"college":"narayana junior college",
+			"precentage":"75%"
+		}, 
+		{
+		    "course":"CBSE",
+			"college":"ST.JOHNS HIGHER ECONDARY SCHOOL",
+			"precentage":"73%"
+		}
+	],
+	   "skills":[
+	   	     {
+	   	     	"title":"programming language",
+	   	     	"output":["c","c++","python","java"]
+	   	     },
+	   	     {
+	   	     	"title":"operating system",
+	   	     	"output":[
+	   	     	     "windows","linux","MAC"
+	   	     	 ]
+	   	     	}
+	   	     ]
+	   	     
+	   	     }
